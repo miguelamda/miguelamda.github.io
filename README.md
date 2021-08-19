@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; url='https://miguelamda.github.io//src/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://miguelamda.github.io/src/index.html'" />
 
 # My Personal Webiste
 
