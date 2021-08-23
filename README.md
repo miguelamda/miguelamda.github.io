@@ -2,6 +2,10 @@
 
 # My Personal Webiste
 
-This is a fork of [Academic Responsive Template](https://github.com/opprDev/academic-responsive-template) project. Go there for more information.
 
+Click <a href="https://miguelamda.github.io/">here</a> to go to the website.
+
+# Acknowledgements
+
+This is a fork of [Academic Responsive Template](https://github.com/opprDev/academic-responsive-template) project. Go there for more information.
 
